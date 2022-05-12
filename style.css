@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+#score{
+    margin: 10px;
+    font-size: 20px;
+}
+
+#time{
+    margin: 10px;
+    font-size: 20px;
+}
+
+#sketch_name{
+    font-color: red; 
+}
